@@ -14,7 +14,6 @@ public class temprature_converter {
      // Celcius to Fahrenheit
     static double Celcius_to_Fahrenheit(double Celcius){
         double Fahrenheit = (Celcius * 9/5) + 32;
-        double Fahrenheit = (Celcius * 9/5) + 32;
         return Fahrenheit;
     }
     // Celcius to Kelvin
