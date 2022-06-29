@@ -9,8 +9,6 @@
  * @author Rafly Farhandika
  */
 
-import src.main.java.temprature_converter;
-
 public class driver {
     public static void main(String args[]){
         System.out.println(temprature_converter.Celcius_to_Fahrenheit(50));
