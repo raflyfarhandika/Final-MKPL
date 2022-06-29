@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>sampleprojectmkpl</groupId>
     <artifactId>sampleproject</artifactId>
-    <version>0.3.4</version>
+    <version>0.3.5</version>
     
     <dependencies>
         <dependency>
@@ -13,8 +13,7 @@
      </dependencies>
 
     
-    
-    <distributionManagement>
+   <distributionManagement>
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
