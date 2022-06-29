@@ -12,6 +12,10 @@
 public class driver {
     public static void main(String args[]){
         System.out.println(temprature_converter.Celcius_to_Fahrenheit(50));
+
+        System.out.println(temprature_converter.Celcius_to_Fahrenheit(50));
+
+        System.out.println(temprature_converter.Celcius_to_Fahrenheit(50));
         
         System.out.println(temprature_converter.Celcius_to_Kelvin(50));
         
